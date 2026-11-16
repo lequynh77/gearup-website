@@ -1,6 +1,6 @@
 const products=[
 {id:1,name:"Tạ tay cao su 5kg",cat:"Gym",price:450000,tag:"BEST SELLER",img:"https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=800&q=80",desc:"Tạ tay phù hợp cho các bài tập sức mạnh tại nhà hoặc phòng tập. Thiết kế chắc chắn, dễ cầm nắm."},
-{id:2,name:"Bóng đá Training Pro",cat:"Bóng đá",price:520000,tag:"POPULAR",img:"https://images.unsplash.com/photo-1614632537423-1e6c2e7e0e7a?auto=format&fit=crop&w=800&q=80",desc:"Bóng đá luyện tập dành cho các buổi tập cá nhân và đồng đội."},
+{id:2,name:"Bóng đá Training Pro",cat:"Bóng đá",price:520000,tag:"POPULAR",img:"https://images.unsplash.com/photo-1721257001239-60fe6a768dbb?auto=format&fit=crop&w=800&q=80",desc:"Bóng đá luyện tập dành cho các buổi tập cá nhân và đồng đội."},
 {id:3,name:"Vợt cầu lông Speed X",cat:"Cầu lông",price:890000,tag:"NEW",img:"https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?auto=format&fit=crop&w=800&q=80",desc:"Vợt cầu lông có thiết kế linh hoạt, phù hợp người chơi phong trào."},
 {id:4,name:"Bóng rổ Street Play",cat:"Bóng rổ",price:390000,tag:"POPULAR",img:"https://images.unsplash.com/photo-1519861531473-9200262188bf?auto=format&fit=crop&w=800&q=80",desc:"Bóng rổ dùng cho luyện tập và các trận đấu giải trí."},
 {id:5,name:"Giày chạy bộ Active",cat:"Chạy bộ",price:1250000,tag:"NEW",img:"https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",desc:"Giày chạy bộ phong cách thể thao, phù hợp vận động hằng ngày."},
